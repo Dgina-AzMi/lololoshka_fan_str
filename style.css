@@ -43,9 +43,7 @@ header{
 main{
     margin-top: 48px;
 }
-section {
-    height: 100vh;
-}
+
 .menur{
     color: rgb(0, 102, 255);
     text-decoration: none;
@@ -61,12 +59,7 @@ section {
         background: red;
     }
 }
-.{
-    color: rgb(0, 132, 255);
-    font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 900
-}
+
 .glav{
     text-align: center;
     color: rgb(124, 188, 248);
@@ -81,11 +74,15 @@ section {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900 
 }
-img{
+.I{
     height: 370px;
     width: 600px;
 }
 .picx{
     display: flex;
     justify-content: center;
+}
+.R{
+    height: 370px;
+    width: 500px;
 }
